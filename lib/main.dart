@@ -32,7 +32,7 @@ class Testing extends StatelessWidget {
         floatingActionButton: FloatingActionButton(
           backgroundColor: Colors.red,
           onPressed: () {},
-          child: Icon(Icons.arrow_right),
+          child: Icon(Icons.add),
         ),
       ),
     );
